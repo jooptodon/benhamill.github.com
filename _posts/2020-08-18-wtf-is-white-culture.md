@@ -10,7 +10,7 @@ into other anti-oppression work). It's been really good stuff, which defies my
 expectations for how Corporate America™ generally handles these topics.
 
 This time, part of the session was Mary-Frances Winters talking about the idea
-of "cultural competency" and one of the things she said struck me. It was the
+of "cultural competency", which is [...] and one of the things she said struck me. It was the
 idea that in order to gain strong cultural competency, it was important to
 become aware of your own culture and others' so that you could be mindful about
 the differences between them and how it might or should affect interactions with
@@ -20,8 +20,9 @@ And it linked up with this idea that's been in my head for a while, which I
 don't remember where I originally heard it: That whiteness is not a culture.
 Which is to say, whiteness is only about power. It doesn't have folk music, or a
 traditional cuisine. There is no traditional ceremonial dress or religious
-practice. There is not culture of whiteness that isn't actually a culture of
-white supremacy.
+practice. There is no culture of whiteness that isn't actually a culture of
+white supremacy
+—American "whiteness" is an ersatz collection of traditions pretending to be a culture.
 
 Since whiteness was forged out of a common European identity (which, go research
 some about why the idea of "Europe" is, itself, racist), it also means that the
@@ -42,7 +43,7 @@ these two atrocities to themselves.
 One example of how this is mirrored as violence against those excluded from
 whiteness is the way that many Black people in the US were severed from their
 historical cultures via the slave trade. These people lost their names and
-languages and were forced with literal violence to abandon the cultures of their
+languages and were forced with literal violence to be stripped from the cultures of their
 peoples. There are, of course, numerous other examples in addition.
 
 This particular case led me to reflect on the fact that when white people say
@@ -52,9 +53,9 @@ is a particular thing that many of them can never really know about themselves.
 Certainly not simply by asking their grandparents about it or whatever. The
 knowledge is lost—was taken from them by white people.
 
-But what drives us to discuss this pedigree sort of information amongst
-ourselves? Why does this constitute an interesting conversation topic? I think
-it may be an unconscious reaction to the fact that whiteness isn't, actually, a
+But what drives us to discuss this sort of pedigree information amongst
+ourselves? Why does this apparently constitute an interesting conversation topic? I think
+it may be an unconscious reaction to the fact that whiteness isn't actually a
 culture. The fact that people can and do talk about these percentages of
 parentage generally indicates a few generations of separation from the named
 cultures. And I think those of us who are so removed from that list… the only
@@ -69,7 +70,7 @@ on their home experience than mine.
 In order for white people to cease the damage we do and undo the damage we have
 done to other people's cultures (and to people sort of… _through_ their
 culture or with respect to their culture) we will have to rediscover for
-ourselves what it means to have a culture.
+ourselves what it means to have a culture, and how we can construct a culture _now_.
 
 I suspect that this does not mean looking backwards. This doesn't mean
 reconnecting with your (perceived) Nordic heritage as an excuse for racism and
@@ -87,4 +88,4 @@ of white people approaching anti-racism work, it probably begins by talking with
 and listening to people who _are_ still connected to their culture—not in order
 to plunder their cultural practices, but in order to see how they relate to
 those practices. I think it also will involve learning about how to form and
-participate in a community, but that, too, it it's own whole topic.
+participate in a community, but that, too, is it's own whole topic.
